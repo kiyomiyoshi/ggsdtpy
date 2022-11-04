@@ -1,4 +1,4 @@
-# ggsdt
+# ggsdtpy
 
 This notebook implements generalized gaussian signal detection
 theory analysis, which gives metacognitive performance evaluation for
